@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package risk.Agents;
+package Agents;
 
 /**
  *
  * @author Abd El Rahman
  */
-public interface Agent {
+public class AIG {
     
     
     
